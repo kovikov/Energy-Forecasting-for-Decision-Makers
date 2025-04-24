@@ -133,9 +133,9 @@ Deployment includes:
 
 ## 📬 Contact
 
-**Project Lead**: [Your Name]  
-**Email**: [your.email@example.com]  
-**GitHub**: [github.com/yourusername](https://github.com/yourusername)
+**Project Lead**:  
+**Email**:   
+**GitHub**: 
 
 ---
 
