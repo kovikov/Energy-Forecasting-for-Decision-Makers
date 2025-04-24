@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/007d3fd9-9430-415d-9396-6edd2a1fdb47)
 
 
 # Energy-Forecasting-for-Decision-Makers
